@@ -1,0 +1,7 @@
+{
+	"app_name": "poller-app",
+    "api_key": "7ab0e18899eb2e26880830bf",
+    "time_interval": 3,
+    "target_file_path": "/tmp/currency-poller.json",
+    "base_currency": "INR"
+}
